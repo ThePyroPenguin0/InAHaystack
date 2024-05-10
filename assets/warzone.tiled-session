@@ -1,0 +1,35 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "warzone.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "warzone.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 406,
+                "y": 432.6666666666667
+            }
+        },
+        "warzone.tmx#warzone-packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/glipo/CMPM120/InAHaystack/assets",
+    "last.imagePath": "C:/Users/glipo/CMPM120/InAHaystack/assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 25,
+    "openFiles": [
+        "warzone.tmx"
+    ],
+    "project": "warzone.tiled-project",
+    "recentFiles": [
+        "warzone.tmx"
+    ],
+    "tileset.embedInMap": true
+}
